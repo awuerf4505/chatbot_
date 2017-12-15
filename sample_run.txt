@@ -1,0 +1,39 @@
+___________   ___. ___________      .__ 
+\__    ___/___\_ |_\__    ___/____  |  |__   ____
+  |    | /  _ \| __ \|    |  \__  \ |  |  \_/ ___\ 
+  |    |(  <_> ) \_\ \    |   / __ \|   Y  \  \___
+  |____| \____/|___  /____|  (____  /___|  /\___  >
+                   \/             \/     \/     \/ 
+Hello. I'm TobTahc. Who are you?
+Alison
+Hello, Alison!
+Say something to me!
+Alison >> Hello
+TobTahc >> Hi, how are you?
+Alison >> I'm good! How are you?
+TobTahc >> I wish I knew.
+Alison >> ok
+TobTahc >> Oh well, what is your favorite planet?
+Alison >> Saturn
+TobTahc >> My favorite planet is Pluto...wait..dern it...I'm still bummed that Pluto is not a planet...or is it?
+Alison >> idk
+TobTahc >> So.....what is your favorite subject at school?
+Alison >> Science
+TobTahc >> Me too! My favorite science unit is genetics. What is your favorite thing about science?
+Alison >> cells
+TobTahc >> I think I studied that in robot school called Wikipedia. But Khan Academy is a good place to learn that subject.
+Alison >> I like Ms. Hanor's class, too.
+TobTahc >> I hear Mr. Cooper's class is really fun.
+Alison >> cool
+TobTahc >> Oh ok....Goodbye?
+Alison >> ok bye
+Goodbye. It was nice talking to you.
+Would you like to chat again? (y/n)n
+  ____   ___    ___   ___    ____   __ __    ___
+ /    | /   \  /   \ |   \  |    \ |  |  |  /  _]
+|   __||     ||     ||    \ |  o  )|  |  | /  [_
+|  |  ||  O  ||  O  ||  D  ||     ||  ~  ||    _]
+|  |_ ||     ||     ||     ||  O  ||___, ||   [_
+|     ||     ||     ||     ||     ||     ||     |
+|___,_| \___/  \___/ |_____||_____||____/ |_____|
+>>> 
